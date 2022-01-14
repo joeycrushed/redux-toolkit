@@ -1,2 +1,3 @@
-# redux-toolkit
-Created with CodeSandbox
+# Redux-toolkit
+
+Basic counter using Redux Toolkit
